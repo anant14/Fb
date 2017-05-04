@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">fb</string>
+    <string name="auth_failed">Auth failed</string>
+</resources>
